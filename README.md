@@ -7,7 +7,7 @@ partie après partie, avec tes trésors et tes **stats de combat**, et un overla
 
 ## Télécharger
 
-1. Ouvre la [dernière version](https://github.com/xavstream/XDK-Chest-Counter-releases/releases/latest)
+1. Ouvre la [dernière version](https://github.com/XDK-Vito/XDK-Chest-Counter-releases/releases/latest)
    (ou installe-le en un clic depuis le **XDK Hub**).
 2. Télécharge **`XDKChestCounter.exe`** : un seul fichier, rien à installer (pas besoin de .NET).
 3. Lance-le et suis la courte configuration (flèches + Entrée).
